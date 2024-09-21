@@ -5,6 +5,8 @@
 ![SayHi](https://github.com/KatyaNichi/KatyaNichi/blob/main/HiCode.gif)
 
  </div>
+
+ #I'm Ekaterina Nichiporenko, a passionate Mobile App developer 💻.
 <!--
 **KatyaNichi/KatyaNichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
