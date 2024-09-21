@@ -1,3 +1,5 @@
+<div style="background-color: #f5e1d7; padding: 20px; border-radius: 10px;">
+
 <div align="center">
 
 ## Hi there 👋 I'm KatyaNichi
@@ -33,5 +35,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaNichi&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaNichi&theme=dark&layout=compact" width="410" /></p>
 
+ </div>
  </div>
 
