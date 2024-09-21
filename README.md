@@ -25,6 +25,15 @@
 
 👀 I’m looking for a full-time mobile developer position! I'm ready to bring my skills to innovative Android and iOS projects.
 
+<hr>
+
+### ⚙️ &nbsp; Git Analytics
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaNichi&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaNichi&theme=dark&layout=compact" width="410" /></p>
+
+
+
 <!--
 **KatyaNichi/KatyaNichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
