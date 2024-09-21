@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋
+## Hi there 👋 I'm KatyaNichi
 
 ![SayHi](https://github.com/KatyaNichi/KatyaNichi/blob/main/HiCode.gif)
 
