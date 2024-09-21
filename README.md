@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Hi there 👋
+
+</div>
 ![SayHi](https://github.com/KatyaNichi/KatyaNichi/blob/main/HiCode.gif)
 
 <!--
