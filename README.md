@@ -1,4 +1,4 @@
-<div style="background-color: rose">
+
 
 <div align="center">
 
@@ -32,8 +32,8 @@
 ### ⚙️ &nbsp; Git Analytics
  <div align="center">
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaNichi&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaNichi&theme=dark&layout=compact" width="410" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaNichi&&show_icons=true&bg_color=ebe8e7&title_color=333333&text_color=000000&icon_color=f58c82&show_icons=true" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaNichi&theme=dark&layout=compact" width="410" />
 
  </div>
  </div>
