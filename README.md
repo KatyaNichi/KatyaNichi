@@ -1,4 +1,5 @@
 ## Hi there 👋
+![SayHi](https://github.com/KatyaNichi/KatyaNichi/blob/main/HiCode.gif)
 
 <!--
 **KatyaNichi/KatyaNichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
