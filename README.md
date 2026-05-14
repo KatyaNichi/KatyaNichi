@@ -11,17 +11,17 @@
  # I'm Ekaterina Nichiporenko, a passionate Mobile App developer 💻.
  
 - 🔭 I’m currently working on mobile and backend projects, specializing in **Swift, Kotlin, Node.js**, and **React Native**.
-- 🎓 **Malmö Yrkeshögskola** / Programmerare iPhone och Android (2023 – Present)
-- ⚡ Fun fact: I have over 4+ years of experience in tech but started my career playing the bassoon!
+- 🎓 **Malmö Yrkeshögskola** / Programmerare iPhone och Android (2023 – 2024)
+- ⚡ Fun fact: I have over 5+ years of experience in tech but started my career playing the bassoon!
 - 📫 How to reach me: [Email me!](mailto:katya_nichiporenko@protonmail.com)
 - 🤝   Connect with Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ekaterina-nichiporenko-0b3223207/)
 
 ## Tech Stack & Experience 💻
 
-- 4+ years experience: **JavaScript**, **Git**, **HTML5**, **CSS3**
+- 5+ years experience: **JavaScript**, **Git**, **HTML5**, **CSS3**
 - 3+ years experience: **API Integration**, **Node.js**, **TypeScript**, **MySQL**, **React**, **MongoDB**
-- 1+ year experience: **Swift**, **SwiftUI**, **Kotlin**, **Jetpack Compose**, **React Native**, **AWS**
+- 2+ year experience:  **Kotlin**, **Jetpack Compose**, **Swift**, **SwiftUI**, **React Native**, **AWS**
 
 ---
 
