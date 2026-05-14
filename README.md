@@ -27,14 +27,5 @@
 
 👀 I’m looking for a full-time mobile developer position! I'm ready to bring my skills to innovative Android and iOS projects.
 
-<hr>
-
-### ⚙️ &nbsp; Git Analytics
- <div align="center">
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KatyaNichi&theme=dark&show_icons=true" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatyaNichi&theme=dark&layout=compact" width="410" />
-
- </div>
  </div>
 
