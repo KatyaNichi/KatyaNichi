@@ -10,7 +10,7 @@
 
  # I'm Ekaterina Nichiporenko, a passionate Mobile App developer 💻.
  
-- 🔭 I’m currently working on mobile and backend projects, specializing in **Swift, Kotlin, Node.js**, and **React Native**.
+- 🔭 I’m currently working on mobile projects, specializing in ** Kotlin, Jetpack Compose**.
 - 🎓 **Malmö Yrkeshögskola** / Programmerare iPhone och Android (2023 – 2024)
 - ⚡ Fun fact: I have over 5+ years of experience in tech but started my career playing the bassoon!
 - 📫 How to reach me: [Email me!](mailto:katya_nichiporenko@protonmail.com)
